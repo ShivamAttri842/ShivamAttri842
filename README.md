@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @ShivamAttri842
-- 👀 I’m interested in Computer science 
-- 🌱 I’m currently learning Java and Python
-- 📫 Email id - shivamattri.842@gmail.com
-
-
-<!---
-ShivamAttri842/ShivamAttri842 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![ShivamAttri842's GitHub | Stats](https://stats.quira.sh/ShivamAttri842/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ShivamAttri842)
-
-[![ShivamAttri842's GitHub | Languages Over Time](https://stats.quira.sh/ShivamAttri842/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ShivamAttri842)
+<table>
+  <tr>
+    <td valign="center">
+      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+      🌱 I am currently learning **Java** and also interested in **Web Development**.
+      🎯 My Goal is to Contribute to as many **open source project** as possible.
+      ✨ I love to create different types of **contents**.
+<td >
+      <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+    </td>
+    
+  </tr>
+  </table>
