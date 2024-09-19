@@ -8,3 +8,4 @@
 ShivamAttri842/ShivamAttri842 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![ShivamAttri842's GitHub | Stats](https://stats.quira.sh/ShivamAttri842/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ShivamAttri842)
