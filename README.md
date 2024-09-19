@@ -9,3 +9,5 @@ ShivamAttri842/ShivamAttri842 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 [![ShivamAttri842's GitHub | Stats](https://stats.quira.sh/ShivamAttri842/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ShivamAttri842)
+
+[![ShivamAttri842's GitHub | Languages Over Time](https://stats.quira.sh/ShivamAttri842/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ShivamAttri842)
