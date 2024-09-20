@@ -8,7 +8,7 @@
 ---
 
 ### 🔭 Professional Summary
-Dynamic Frontend Developer with a strong foundation in web development, specializing in building responsive and user-friendly applications. Proficient in **JavaScript**, **React**, and **CSS**, with a keen eye for design and a passion for crafting seamless user experiences. Currently seeking opportunities to contribute to innovative projects and collaborate in a forward-thinking team.
+Dedicated Frontend Developer specializing in responsive, user-centric applications. Proficient in HTML, CSS, JavaScript, and React with a strong attention to detail and a commitment to high-quality user experiences. Seeking opportunities to contribute to innovative projects and collaborate with dynamic teams.
 
 ---
 
@@ -19,10 +19,10 @@ Dynamic Frontend Developer with a strong foundation in web development, speciali
 ---
 
 ### 💻 Key Projects
-- **[Jarvis Voice Assistant](#)**: A voice-controlled assistant built in Python using Bootstrap, HTML, and CSS, enabling voice commands for various tasks.
-- **[Weather Application](#)**: A Python-based application that provides real-time weather updates using API integration.
-- **[Netflix Website Clone](#)**: A responsive clone of the Netflix website, showcasing frontend skills using HTML, CSS, and JavaScript.
-- **[Weather Website](#)**: A visually appealing website that displays weather information, developed using HTML, CSS, and JavaScript.
+- **[Jarvis Voice Assistant](https://github.com/ShivamAttri842/Jarvis-AI-Assistant)**: A voice-controlled assistant built in Python using Bootstrap, HTML, and CSS, enabling voice commands for various tasks.
+- **[Weather Application](https://github.com/ShivamAttri842/Weather-Application)**: A Python-based application that provides real-time weather updates using API integration.
+- **[Netflix Website Clone](https://github.com/ShivamAttri842/Netflix-Clone-Project)**: A responsive clone of the Netflix website, showcasing frontend skills using HTML, CSS, and JavaScript.
+- **[Weather Website](https://github.com/ShivamAttri842/Weather-Website)**: A visually appealing website that displays weather information, developed using HTML, CSS, and JavaScript.
 
 ---
 
