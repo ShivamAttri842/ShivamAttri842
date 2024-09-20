@@ -27,7 +27,7 @@ Dedicated Frontend Developer specializing in responsive, user-centric applicatio
 ---
 
 ### 📫 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/shivam-attri-bb55862a6" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
@@ -35,14 +35,6 @@ Dedicated Frontend Developer specializing in responsive, user-centric applicatio
 
 ---
 
-### 📫 Connect with me:
-<p align="center">
-  <a href="https://linkedin.com/in/shivam-attri-bb55862a6" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-</p>
-
----
 
 ### 💻 Programming Languages
 <p align="left">
