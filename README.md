@@ -18,14 +18,6 @@ Dedicated Frontend Developer specializing in responsive, user-centric applicatio
 
 ---
 
-### 💻 Key Projects
-- **[Jarvis Voice Assistant](https://github.com/ShivamAttri842/Jarvis-AI-Assistant)**: A voice-controlled assistant built in Python using Bootstrap, HTML, and CSS, enabling voice commands for various tasks.
-- **[Weather Application](https://github.com/ShivamAttri842/Weather-Application)**: A Python-based application that provides real-time weather updates using API integration.
-- **[Netflix Website Clone](https://github.com/ShivamAttri842/Netflix-Clone-Project)**: A responsive clone of the Netflix website, showcasing frontend skills using HTML, CSS, and JavaScript.
-- **[Weather Website](https://github.com/ShivamAttri842/Weather-Website)**: A visually appealing website that displays weather information, developed using HTML, CSS, and JavaScript.
-
----
-
 ### 📫 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/shivam-attri-bb55862a6" target="_blank">
