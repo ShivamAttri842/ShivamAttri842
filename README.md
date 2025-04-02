@@ -3,7 +3,8 @@
 ![Header Image](https://github.com/PremApk/PremApk/blob/main/header_.png)
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Shivam+Attri,+Welcome+to+My+Profile!+;I+am+a+MERN+and+Java+Developer+;Self+learner;OverThinker" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Shivam+Attri,+Welcome+to+My+Profile!+;I+am+a+MERN+and+Java+Developer+;Self+Learner;Passionate+Problem+Solver;Tech+Enthusiast"alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -81,10 +82,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamAttri842&show_icons=true&locale=en&layout=compact&theme=radical" width="48%" />
 </p>
 
-## � Currently Exploring
+### 🔍 Currently Exploring
 - ⚡ Improving my **DSA** skills
 - 🌐 Enhancing **React.js & Next.js** expertise
 - 🔥 Learning **System Design & Scalable Applications**
 - 🏗 Building personal projects for hands-on experience
-- 🧠 Exploring **AI/ML fundamentals**
-- 📱 Learning **React Native for mobile development**
