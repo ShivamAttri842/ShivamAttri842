@@ -74,7 +74,6 @@
 ### 📈 Activity Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamAttri842&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamAttri842&theme=radical" width="48%" />
 </p>
 
 ### 🔥 Most Used Languages
